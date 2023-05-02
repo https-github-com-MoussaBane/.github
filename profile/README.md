@@ -66,13 +66,13 @@ Proje aşamaları iteratif bir yaklaşımla gerçekleştirilecek ve düzenli spr
 
 # 5- Takım Üyelerimiz ve Yetkinlikleri:
 
-Oğuzhan Bilal Kahraman - Full Stack Developer - @OguzhanbilalKahraman
+*Oğuzhan Bilal Kahraman - Full Stack Developer - @OguzhanbilalKahraman
 
-Talha Ramadan - Full Stack Developer - 
+*Talha Ramadan - Full Stack Developer - 
 
-Moussa Bane - Full Stack Developer - @MoussaBane 
+*Moussa Bane - Full Stack Developer - @MoussaBane 
 
-Bekir Kurt - Full Stack Developer - 
+*Bekir Kurt - Full Stack Developer - 
 
 
 
