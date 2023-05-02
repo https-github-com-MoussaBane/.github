@@ -39,15 +39,15 @@ Agile metotlarından Scrum modelini benimsedik. Esnek ve iteratif yönetmeye, pr
 
 # 3- Kullanılan Teknolojiler:
 
-> HTML, CSS, Bootstrap: Web sitesi tasarımı ve kullanıcı arayüzü oluşturmak için kullanılacak.
+>HTML, CSS, Bootstrap: Web sitesi tasarımı ve kullanıcı arayüzü oluşturmak için kullanılacak.
 
-> PHP: Dinamik web sayfaları oluşturmak için kullanılacak.
+>PHP: Dinamik web sayfaları oluşturmak için kullanılacak.
 
-> MySQL: Veritabanı yönetim sistemi olarak kullanılacak.
+>MySQL: Veritabanı yönetim sistemi olarak kullanılacak.
 
-> GitHub: Proje yönetimi ve versiyon kontrolü için kullanılacak.
+>GitHub: Proje yönetimi ve versiyon kontrolü için kullanılacak.
 
-> ChatGPT: Proje hakkında soruları yanıtlamak ve proje geliştirme sürecindeki sorunlara çözüm bulmak için kullanılacak.
+>ChatGPT: Proje hakkında soruları yanıtlamak ve proje geliştirme sürecindeki sorunlara çözüm bulmak için kullanılacak.
 
 
 
