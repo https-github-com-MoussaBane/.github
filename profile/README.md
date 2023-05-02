@@ -3,7 +3,7 @@ Sinema Bileti Alma ve Filmlere Bakma Otomasyonu
 
 
 
-1- Amacımız ve Hedefimiz:
+# 1- Amacımız ve Hedefimiz:
 
 Amacımız ve Cinemate Nedir ?
 
@@ -28,7 +28,7 @@ CineMate Hedeflerimiz:
 
 
 
-2- Benimsenen Yazılım Geliştirme Metodu:
+# 2- Benimsenen Yazılım Geliştirme Metodu:
 
 Agile metotlarından Scrum modelini benimsedik. Esnek ve iteratif yönetmeye, projedeki yapılacak işlerin küçük sprintlere bölünmesi ve bu sprintlerin bir sonraki iş dağılımına kadar bitirilmesi ile yönetilir. Her sprint 4-7 gün arası değişir bu takıma bağlıdır. Her sprint bitiminde yeni sprint oluşturma toplantısı yapılır.Toplantı da yeni dağılımlar yapılması gereken işler paylaştırılır. Sprintler paylaştırılırken efor seviyesi(zorluk seviyesine göre) ekip arkadaşlarımıza adil dağıtılır. Yapılan sprintlerin sonunda alınan feedbackler ile bazı durumlar, problemler fixlenir üzerinde durulur.
 
@@ -37,7 +37,7 @@ Agile metotlarından Scrum modelini benimsedik. Esnek ve iteratif yönetmeye, pr
 
 
 
-3- Kullanılan Teknolojiler:
+# 3- Kullanılan Teknolojiler:
 
 HTML
 CSS 
@@ -49,7 +49,7 @@ GitHub
 
 
 
-4- Açık Mektup:
+# 4- Açık Mektup:
 
 CineMate günümüzde bir çok insanın yaşadığı, aynı koltuk satımından tutun, korkunç seans öncesi sıralarda beklemek yerine, daha yenilikçi problem çözen bir otomasyon yapmaktayız.
 Araştırmayı seven, problemlerden kaçmayı değilde problemlerle yaşayan ve bu problemleri çözerken kendisini geliştiren, geliştirdiği öğrendiği bilgileri paylaşmayı seven yazılım geliştiricileri, grafik tasarımcılarına  ve yatırımcılara çağrımızdır:
@@ -62,13 +62,13 @@ Proje aşamaları iteratif bir yaklaşımla gerçekleştirilecek ve düzenli spr
 
 
 
-5- Takım Üyelerimiz ve Yetkinlikleri:
+# 5- Takım Üyelerimiz ve Yetkinlikleri:
 
 Oğuzhan Bilal Kahraman - Full Stack Developer - @OguzhanbilalKahraman
 
 Talha Ramadan - Full Stack Developer - 
 
-Moussa Bane - Full Stack Developer -
+Moussa Bane - Full Stack Developer - @MoussaBane 
 
 Bekir Kurt - Full Stack Developer - 
 
@@ -77,7 +77,8 @@ Bekir Kurt - Full Stack Developer -
 
 
 
-6- Takım Üyelerinin Görev Dağılımları:
+# 6- Takım Üyelerinin Görev Dağılımları:
+
 Görev dağılımımız iş odaklıdır. İhtiyaç halindeki bir menü veyahut barın frontend ve backendini ekip arkadaşlarımız birlikte uyum içerisinde sağlar. Takibi ve yapılan işlemlerin anlaşılırlığı kolaylaşır.
 
 
